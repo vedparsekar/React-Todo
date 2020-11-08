@@ -16,7 +16,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <h1 onClick={this.change}>{this.state.brand}</h1>
-        <ul>
+        <ul className="list">
           <li>Instagram</li>
           <li>WhatsApp</li>
           <li>Oculus</li>
