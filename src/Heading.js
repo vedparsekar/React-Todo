@@ -16,7 +16,7 @@ class Heading extends React.Component {
   render() {
     return (
       <div className="App">
-        <h1>ToDo</h1>
+        <h1>ToDoApp</h1>
       </div>
     );
   }
